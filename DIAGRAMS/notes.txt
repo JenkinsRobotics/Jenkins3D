@@ -21,6 +21,7 @@ parts are .5 mm larger in x & y axis , .3mm taller in the z axis
 
 Print out calibration circle and check how much clearence is needed for connecting parts 
 		1mm Clearence is acceptable (minimal) (snug fit)
+		1.25mm Clearence is acceptable (loose snug fit)
 		1.5mm loose fit
 		2 mm   (No contact rim)
 
